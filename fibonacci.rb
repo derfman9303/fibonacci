@@ -36,6 +36,6 @@ end
 
 
 
-fib = Fibonacci.new(15)
-#puts fib.recursive_fib
+fib = Fibonacci.new(35)
+puts fib.recursive_fib
 #puts fib.iterative_fib
